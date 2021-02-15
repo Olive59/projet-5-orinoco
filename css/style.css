@@ -494,6 +494,7 @@ legend {
 .fichePanier {
     display: flex;
     justify-content: space-around;
+    
 }
 
 .fichePanier p {
@@ -596,6 +597,8 @@ legend {
 
 .iconForm {
     display: flex;
+    justify-content: center;
+    margin-right: 10px;
 }
 
 .iconForm i {
